@@ -53,7 +53,7 @@ README de perfil — Camilo Castro
 - **ml-scraper** — algoritmo de web scraping  
   <a href="https://github.com/CratosCamilo/ml-scraper">github.com/CratosCamilo/ml-scraper</a> 
 
-- **Histofy (Backend)** — procesamiento de datos históricos  
+- **Histofy (Backend)** — procesamiento de historias médicas con inteligencia artificial  
   <a href="https://github.com/PI3-HISTOFY/Backend">github.com/PI3-HISTOFY/Backend</a>  
 
 ---
