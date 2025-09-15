@@ -1,10 +1,6 @@
 <!--
 README de perfil — Camilo Castro
 -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=CratosCamilo&label=Profile%20views&color=42b983&style=flat" alt="CratosCamilo-github" />
-  <img src="https://img.shields.io/github/followers/CratosCamilo?style=social" alt="CratosCamilo-github" />
-</p>
 
 
 <h1 align="center">Hi, I'm Camilo Castro</h1>
@@ -73,10 +69,5 @@ README de perfil — Camilo Castro
 
 ---
 
-
-
-<p align="left">
-  <img src="https://metrics.lecoq.io/CratosCamilo?template=classic&config.timezone=America%2FBogota" />
-</p>
 
 
