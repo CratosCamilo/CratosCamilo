@@ -1,6 +1,11 @@
 <!--
 README de perfil — Camilo Castro
 -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=CratosCamilo&label=Profile%20views&color=42b983&style=flat" alt="CratosCamilo-github" />
+  <img src="https://img.shields.io/github/followers/CratosCamilo?style=social" alt="CratosCamilo-github" />
+</p>
+
 
 <h1 align="center">Hi, I'm Camilo Castro</h1>
 
@@ -43,18 +48,12 @@ README de perfil — Camilo Castro
 ### 📌 Proyectos destacados
 - **MercAnalyzer (API)** — análisis de mercado  
   <a href="https://github.com/CratosCamilo/MercAnalyzer.Api">github.com/CratosCamilo/MercAnalyzer.Api</a>  
-  <img src="https://img.shields.io/github/stars/CratosCamilo/MercAnalyzer.Api?style=flat" />
-  <img src="https://img.shields.io/github/forks/CratosCamilo/MercAnalyzer.Api?style=flat" />
 
 - **ml-scraper** — algoritmo de web scraping  
-  <a href="https://github.com/CratosCamilo/ml-scraper">github.com/CratosCamilo/ml-scraper</a>  
-  <img src="https://img.shields.io/github/stars/CratosCamilo/ml-scraper?style=flat" />
-  <img src="https://img.shields.io/github/forks/CratosCamilo/ml-scraper?style=flat" />
+  <a href="https://github.com/CratosCamilo/ml-scraper">github.com/CratosCamilo/ml-scraper</a> 
 
 - **Histofy (Backend)** — procesamiento de datos históricos  
   <a href="https://github.com/PI3-HISTOFY/Backend">github.com/PI3-HISTOFY/Backend</a>  
-  <img src="https://img.shields.io/github/stars/PI3-HISTOFY/Backend?style=flat" />
-  <img src="https://img.shields.io/github/forks/PI3-HISTOFY/Backend?style=flat" />
 
 ---
 
