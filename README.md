@@ -70,7 +70,6 @@ README de perfil — Camilo Castro
 
 ### 🔭 Ahora mismo
 - Construyendo APIs con Express + TypeScript.
-- Mejorando pipelines de scraping y análisis de datos.
 
 ---
 
