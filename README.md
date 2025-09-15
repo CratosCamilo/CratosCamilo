@@ -6,6 +6,11 @@ README de perfil — Camilo Castro
 <h1 align="center">Hi, I'm Camilo Castro</h1>
 
 <p align="center">
+  <i>“戦え”</i>
+</p>
+
+
+<p align="center">
   <img src="https://i.imgur.com/HlAKiYy.jpeg" alt="anime banner" width="780">
 </p>
 
