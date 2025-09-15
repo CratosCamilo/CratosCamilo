@@ -22,7 +22,7 @@ README de perfil — Camilo Castro
 
 ### 👋 Sobre mí
 - Backend con Node.js/Express y SQL.
-- Me interesan el análisis de datos y el scraping.
+- Me interesan el análisis de datos y desarrollo de páginas web.
 - Abierto a colaborar en APIs, data pipelines y servicios backend.
 - Contacto: **cratoscamilo@gmail.com**
 
