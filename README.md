@@ -23,7 +23,6 @@ README de perfil — Camilo Castro
 ---
 
 ### 🧰 Stack principal
-<!-- Mantengo badges mínimos y reales; ordenado por uso/foco -->
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
@@ -42,7 +41,6 @@ README de perfil — Camilo Castro
 ---
 
 ### 📌 Proyectos destacados
-<!-- Mostramos los repos como enlaces limpios + badges dinámicos de stars y forks -->
 - **MercAnalyzer (API)** — análisis de mercado  
   <a href="https://github.com/CratosCamilo/MercAnalyzer.Api">github.com/CratosCamilo/MercAnalyzer.Api</a>  
   <img src="https://img.shields.io/github/stars/CratosCamilo/MercAnalyzer.Api?style=flat" />
@@ -61,14 +59,12 @@ README de perfil — Camilo Castro
 ---
 
 ### 📊 Stats (limpios)
-<!-- Usa tu username real en username= -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CratosCamilo&show_icons=true&hide_title=true&hide_border=true&theme=transparent" height="140" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CratosCamilo&layout=compact&hide_border=true&theme=transparent" height="140" />
 </p>
 
-<!-- Opcional: racha de contribuciones -->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=CratosCamilo&hide_border=true&theme=transparent" height="140" /> -->
+
 
 ---
 
@@ -78,16 +74,10 @@ README de perfil — Camilo Castro
 
 ---
 
-<!-- Extra opcional: animación "snake" para contribuciones
-1) Requiere un GitHub Action que genere el SVG.
-2) Guía: https://github.com/Platane/snk
-Luego descomenta esta línea:
-<p><img src="https://raw.githubusercontent.com/CratosCamilo/CratosCamilo/output/github-contribution-grid-snake.svg" alt="snake"></p>
--->
 
-<!-- Extra opcional: métricas avanzadas (requiere token)
+
 <p align="left">
   <img src="https://metrics.lecoq.io/CratosCamilo?template=classic&config.timezone=America%2FBogota" />
 </p>
--->
+
 
