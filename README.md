@@ -12,12 +12,12 @@
 </p>
 
 <p align="center">
-  <a href="mailto:cratoscamilo@gmail.com">
-    <img src="https://img.shields.io/badge/cratoscamilo@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://impostor-client-zeta.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/impostor--client-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://louloz.com" target="_blank">
+    <img src="https://img.shields.io/badge/louloz.com-96BF48?style=flat-square&logo=shopify&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://hotellogistico.com" target="_blank">
@@ -35,6 +35,7 @@ Construyo software que llega a producción. Desde APIs REST y juegos en tiempo r
 - 🎓 Último semestre en UPB — graduación finales de 2026
 - 🌐 Proyectos desplegados para clientes reales en Colombia
 - 🤝 Abierto a colaborar en proyectos fullstack o freelance
+- 📬 cratoscamilo@gmail.com
 
 ---
 
