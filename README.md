@@ -145,6 +145,6 @@ Landing pages y tiendas en producción para negocios reales en Colombia.
 ### 📊 Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CratosCamilo&show_icons=true&hide_title=true&hide_border=true&theme=transparent" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CratosCamilo&layout=compact&hide_border=true&theme=transparent" height="140" />
+  <img src="https://github-readme-stats-nine-omega-97.vercel.app/api?username=CratosCamilo&show_icons=true&hide_title=true&hide_border=true&theme=transparent" height="140" />
+  <img src="https://github-readme-stats-nine-omega-97.vercel.app/api/top-langs/?username=CratosCamilo&layout=compact&hide_border=true&theme=transparent" height="140" />
 </p>
