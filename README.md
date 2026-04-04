@@ -1,93 +1,143 @@
-<!--
-README de perfil — Camilo Castro
--->
+<!--  README — Camilo Castro  -->
+
 <h1 align="center">Hi, I'm Camilo Castro</h1>
+<p align="center"><i>"戦え"</i></p>
+
 <p align="center">
-  <i>"戦え"</i>
-</p>
-<p align="center">
-  <img src="https://i.imgur.com/HlAKiYy.jpeg" alt="anime banner" width="780">
+  <img src="https://i.imgur.com/HlAKiYy.jpeg" alt="banner" width="780" />
 </p>
 
 <p align="center">
-  Desarrollador Fullstack · Ingeniería en Sistemas — Universidad Pontificia Bolivariana
+  Desarrollador Fullstack &nbsp;·&nbsp; Ingeniería en Sistemas — Universidad Pontificia Bolivariana
+</p>
+
+<p align="center">
+  <a href="mailto:cratoscamilo@gmail.com">
+    <img src="https://img.shields.io/badge/cratoscamilo@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://impostor-client-zeta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/impostor--client-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://hotellogistico.com" target="_blank">
+    <img src="https://img.shields.io/badge/hotellogistico.com-4A90D9?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 👋 Sobre mí
 
-Construyo software que llega a producción. Desde APIs REST y juegos en tiempo real hasta sistemas de escritorio y tiendas en línea para clientes reales. Me muevo bien en el stack completo —backend, frontend y base de datos— y disfruto los proyectos con impacto concreto.
+Construyo software que llega a producción. Desde APIs REST y juegos en tiempo real hasta sistemas de escritorio y tiendas en línea para clientes reales. Me muevo en el stack completo —backend, frontend y base de datos— y disfruto los proyectos con impacto concreto.
 
 - 📍 Bucaramanga, Colombia
-- 📬 **cratoscamilo@gmail.com**
-- 🌐 Proyectos desplegados en producción para clientes en Colombia
+- 🎓 Último semestre en UPB — graduación finales de 2026
+- 🌐 Proyectos desplegados para clientes reales en Colombia
+- 🤝 Abierto a colaborar en proyectos fullstack o freelance
 
 ---
 
 ### 🧰 Stack
 
+<table>
+  <tr>
+    <td valign="top" width="25%">
+
 **Lenguajes**
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,python,java&perline=4" />
+
+  </td>
+  <td valign="top" width="25%">
 
 **Frontend**
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&perline=4" />
+
+  </td>
+  <td valign="top" width="25%">
 
 **Backend**
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,electron&perline=4" />
+<img src="https://skillicons.dev/icons?i=socketio&perline=4" />
 
-**Bases de datos**
+  </td>
+  <td valign="top" width="25%">
 
-<p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
-</p>
+**DB & Tools**
 
-**Tools**
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git&perline=4" />
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shopify-96BF48?logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white" />
-</p>
+  </td>
+  </tr>
+</table>
+
+<sub>También: SQL Server · JWT · MUI · Shopify · WordPress · Vercel</sub>
 
 ---
 
-### 📌 Proyectos
+### 🚀 Proyectos destacados
 
-| Proyecto | Stack | Estado |
-|---|---|---|
-| **[Impostor](https://github.com/CratosCamilo/impostor-client)** — Juego de cartas multijugador en tiempo real | React · TypeScript · Express · Socket.io | [▶ Live](https://impostor-client-zeta.vercel.app/) |
-| **[MercAnalyzer](https://github.com/CratosCamilo/MercAnalyzer.Api)** — Análisis y comparación de precios en Mercado Libre | Next.js · Python · SQL Server | WIP |
-| **[Hotel Logístico](https://hotellogistico.com)** — Landing page para hotel en Santa Marta | HTML · CSS · JS | [▶ Live](https://hotellogistico.com) |
-| **[SaludMental](https://github.com/CratosCamilo/SaludMentalFront)** — Plataforma de salud mental con generación de PDF | React · Express · MongoDB · MySQL | En desarrollo |
-| **[Histofy](https://github.com/PI3-HISTOFY/Backend)** — Backend con IA para procesamiento de historias médicas | Python · Docker | Proyecto grupal |
-| **ERP Panadería** — Sistema de escritorio para inventario, facturación y reportes | Electron · TypeScript | Cliente real |
-| **[Louloz](https://louloz.com)** — Tienda online de calzado (detal) | Shopify | [▶ Live](https://louloz.com) |
-| **[Fábrica León](https://fabricalzadoleons.com)** — Sitio mayorista de fábrica de calzado | WordPress | [▶ Live](https://fabricalzadoleons.com) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+#### 🃏 [Impostor](https://github.com/CratosCamilo/impostor-client) &nbsp;·&nbsp; [▶ Live](https://impostor-client-zeta.vercel.app/)
+Juego de cartas multijugador en tiempo real. Los jugadores reciben un personaje en secreto y deben dar pistas sin delatar al impostor.
+
+`React` `TypeScript` `Express` `Socket.io`
+
+  </td>
+  <td width="50%" valign="top">
+
+#### 📊 [MercAnalyzer](https://github.com/CratosCamilo/MercAnalyzer.Api)
+Plataforma de análisis y comparación de precios en Mercado Libre mediante scraping automatizado.
+
+`Next.js` `Python` `SQL Server` `JWT`
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+#### 🏥 [Histofy Backend](https://github.com/PI3-HISTOFY/Backend)
+Backend con inteligencia artificial para procesamiento y análisis de historias médicas.
+
+`Python` `Docker` `IA`
+
+  </td>
+  <td width="50%" valign="top">
+
+#### 🧠 [SaludMental](https://github.com/CratosCamilo/SaludMentalFront)
+Plataforma de salud mental con generación de reportes en PDF y sistema de autenticación.
+
+`React` `TypeScript` `Express` `MongoDB` `MySQL`
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+#### 🧾 ERP Panadería
+Sistema de escritorio para gestión de inventario, facturación y reportes. Exporta a Excel y PDF. Desplegado para un cliente real.
+
+`Electron` `TypeScript`
+
+  </td>
+  <td width="50%" valign="top">
+
+#### 🌐 Sitios para clientes
+Landing pages y tiendas en producción para negocios reales en Colombia.
+
+[hotellogistico.com](https://hotellogistico.com) · [louloz.com](https://louloz.com) · [fabricalzadoleons.com](https://fabricalzadoleons.com)
+
+`Shopify` `WordPress` `HTML/CSS`
+
+  </td>
+  </tr>
+</table>
 
 ---
 
@@ -97,11 +147,3 @@ Construyo software que llega a producción. Desde APIs REST y juegos en tiempo r
   <img src="https://github-readme-stats.vercel.app/api?username=CratosCamilo&show_icons=true&hide_title=true&hide_border=true&theme=transparent" height="140" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CratosCamilo&layout=compact&hide_border=true&theme=transparent" height="140" />
 </p>
-
----
-
-### 🔭 Ahora mismo
-
-- Finalizando **Impostor** — juego multijugador con salas en tiempo real vía WebSockets.
-- Último semestre en UPB, graduación a finales de 2026.
-- Abierto a colaborar en proyectos fullstack o freelance.
