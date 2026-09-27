@@ -1,87 +1,214 @@
-<!--  README — Camilo Castro  -->
-
-<h1 align="center">Hi, I'm Camilo Castro</h1>
-<p align="center"><i>"戦え"</i></p>
+<!-- README — Camilo Castro · tinta y viñeta · 戦え -->
 
 <p align="center">
-  <img src="https://i.imgur.com/HlAKiYy.jpeg" alt="banner" width="780" />
+  <img src="https://i.imgur.com/HlAKiYy.jpeg" alt="Viñeta de manga en blanco y negro: una mirada decidida" width="100%" />
 </p>
 
 <p align="center">
-  Desarrollador Fullstack &nbsp;·&nbsp; Ingeniería en Sistemas — Universidad Pontificia Bolivariana
+  <a href="https://camilocastro.vercel.app/es">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+      <img src="./assets/hero-light.svg" alt="Camilo Castro — desarrollador full-stack en Bucaramanga, Colombia. Construyo software que llega a producción. 戦え" width="100%" />
+    </picture>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://impostor-client-zeta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/impostor--client-000000?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://louloz.com" target="_blank">
-    <img src="https://img.shields.io/badge/louloz.com-96BF48?style=flat-square&logo=shopify&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://hotellogistico.com" target="_blank">
-    <img src="https://img.shields.io/badge/hotellogistico.com-4A90D9?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
+  <a href="https://camilocastro.vercel.app/es"><img src="https://img.shields.io/badge/Portafolio-camilocastro.vercel.app-d6311f?style=for-the-badge&logo=vercel&logoColor=white&labelColor=141312" alt="Portafolio: camilocastro.vercel.app" /></a>
+  <a href="mailto:cratoscamilo@gmail.com"><img src="https://img.shields.io/badge/cratoscamilo%40gmail.com-141312?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo: cratoscamilo@gmail.com" /></a>
+  <a href="https://x.com/CamiloCratos"><img src="https://img.shields.io/badge/@CamiloCratos-141312?style=for-the-badge&logo=x&logoColor=white" alt="X: @CamiloCratos" /></a>
+  <a href="https://www.instagram.com/camilocratoss/"><img src="https://img.shields.io/badge/@camilocratoss-141312?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: @camilocratoss" /></a>
+  <br />
+  <img src="https://img.shields.io/badge/Disponible-full--time_%C2%B7_freelance-141312?style=for-the-badge&labelColor=d6311f" alt="Disponible para roles full-time y freelance" />
+  <img src="https://img.shields.io/badge/UPB-Ingenier%C3%ADa_de_Sistemas_%C2%B7_grado_2026-141312?style=for-the-badge&labelColor=3b3834" alt="Ingeniería de Sistemas e Informática, UPB — grado a finales de 2026" />
 </p>
 
----
+<br />
 
-### 👋 Sobre mí
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/chapter-about-dark.svg" />
+  <img src="./assets/chapter-about-light.svg" alt="Capítulo 01 — Sobre mí / About" width="100%" />
+</picture>
 
-Construyo software que llega a producción. Desde APIs REST y juegos en tiempo real hasta sistemas de escritorio y tiendas en línea para clientes reales. Me muevo en el stack completo —backend, frontend y base de datos— y disfruto los proyectos con impacto concreto.
+Soy desarrollador **full-stack** en Bucaramanga, Colombia, en el último semestre de Ingeniería de Sistemas e Informática en la **Universidad Pontificia Bolivariana** (grado a finales de 2026).
 
-- 📍 Bucaramanga, Colombia
-- 🎓 Último semestre en UPB — graduación finales de 2026
-- 🌐 Proyectos desplegados para clientes reales en Colombia
-- 🤝 Abierto a colaborar en proyectos fullstack o freelance
-- 📬 cratoscamilo@gmail.com
+Construyo software que **llega a producción** para negocios reales de Santander y la costa Caribe: el inventario de una panificadora y su próximo sistema de nómina y contabilidad, el catálogo y la planeación de producción de una fábrica de calzado, la web de un hotel en Santa Marta, una peluquería canina, un jardín infantil. Trabajo directo con quienes lo usan, desde la primera entrevista hasta el despliegue.
 
----
+Disfruto los dos extremos del oficio: la parte meticulosa —hacerle ingeniería inversa a un ERP, dejar cada regla por escrito, reproducir un mes de nómina de punta a punta— y la parte visible: tipografía, movimiento y páginas que cargan rápido. Cuando construyo para mí es porque quiero la herramienta; esos proyectos los firmo como **Kmi**.
 
-### 🧰 Stack
+> **Ahora mismo** · preparo la marcha en paralelo del sistema de nómina contra Siesa (oct.–dic. 2026) · cierro mi trabajo de grado para Calzado Leons · abierto a roles de ingeniería full-time y proyectos freelance.
+
+<details>
+<summary><b>Read in English</b></summary>
+<br />
+
+I'm a **full-stack developer** from Bucaramanga, Colombia, in the final semester of Systems & Informatics Engineering at **Universidad Pontificia Bolivariana** (graduating late 2026).
+
+I build software that **reaches production** for real businesses in Santander and on the Caribbean coast: a bread factory's raw-material inventory and its upcoming payroll & accounting system, a shoe manufacturer's catalog and production planning, a hotel website in Santa Marta, a grooming salon, a kindergarten. I work directly with the people who use it, from the first interview to the deploy.
+
+**Right now:** preparing the payroll system's parallel run against Siesa ERP (Oct–Dec 2026), closing my degree project, and open to full-time engineering roles and freelance work. The full story, in both languages, lives at **[camilocastro.vercel.app](https://camilocastro.vercel.app/en)**.
+
+</details>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/chapter-work-dark.svg" />
+  <img src="./assets/chapter-work-light.svg" alt="Capítulo 02 — Trabajo seleccionado / Selected work" width="100%" />
+</picture>
+
+<a href="https://camilocastro.vercel.app/es/work/payroll-accounting">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/work-01-payroll-accounting-dark.jpg" />
+    <img src="./assets/cards/work-01-payroll-accounting-light.jpg" alt="01 — Motor de nómina y contabilidad: reemplazo propio del ERP Siesa para Industria Bizcopan. FastAPI, PostgreSQL, React. 569 pruebas, CI de 9 etapas." width="100%" />
+  </picture>
+</a>
+
+<a href="https://camilocastro.vercel.app/es/work/hotel-logistico">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/work-02-hotel-logistico-dark.jpg" />
+    <img src="./assets/cards/work-02-hotel-logistico-light.jpg" alt="02 — Hotel Logístico: landing sin frameworks para un hotel en Santa Marta, con reservas por WhatsApp. En línea en hotellogistico.com." width="100%" />
+  </picture>
+</a>
+
+<a href="https://camilocastro.vercel.app/es/work/leons-footwear">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/work-03-leons-footwear-dark.jpg" />
+    <img src="./assets/cards/work-03-leons-footwear-light.jpg" alt="03 — LEONS Footwear: catálogo mayorista en Next.js con pipeline de imágenes en Python. En línea en calzadoleons.com." width="100%" />
+  </picture>
+</a>
+
+<a href="https://camilocastro.vercel.app/es/work/kiln">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/work-04-kiln-dark.jpg" />
+    <img src="./assets/cards/work-04-kiln-light.jpg" alt="04 — Kiln: procesamiento distribuido de imágenes con FastAPI, RabbitMQ, workers y PostgreSQL replicado." width="100%" />
+  </picture>
+</a>
+
+<a href="https://camilocastro.vercel.app/es/work/raw-materials-inventory">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/work-05-raw-materials-inventory-dark.jpg" />
+    <img src="./assets/cards/work-05-raw-materials-inventory-light.jpg" alt="05 — Inventario de materia prima para una panificadora: Next.js, Drizzle y Turso. En producción." width="100%" />
+  </picture>
+</a>
+
+<p align="center"><a href="https://camilocastro.vercel.app/es#work"><b>Ver los cinco casos completos en el portafolio →</b></a></p>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/chapter-more-dark.svg" />
+  <img src="./assets/chapter-more-light.svg" alt="Capítulo 03 — Más proyectos / More work" width="100%" />
+</picture>
+
+<p align="center">
+  <a href="https://camilocastro.vercel.app/es#work"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-leons-planning-dark.jpg" /><img src="./assets/cards/more-leons-planning-light.jpg" alt="Calzado Leons — planeación de producción, mi trabajo de grado (Express, Prisma, PostgreSQL, React)" width="32%" /></picture></a>
+  <a href="https://the-groomers-house.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-groomers-house-dark.jpg" /><img src="./assets/cards/more-groomers-house-light.jpg" alt="The Groomer's House — sitio para una peluquería canina premium" width="32%" /></picture></a>
+  <a href="https://my-progress-l65q.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-myprogress-dark.jpg" /><img src="./assets/cards/more-myprogress-light.jpg" alt="MyProgress — PWA de gimnasio con racha, rutinas y estadísticas" width="32%" /></picture></a>
+  <a href="https://impostor-client-zeta.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-impostor-dark.jpg" /><img src="./assets/cards/more-impostor-light.jpg" alt="Impostor — juego multijugador en tiempo real con Socket.IO" width="32%" /></picture></a>
+  <a href="https://poker-viewer-kmi.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-preflop-viewer-dark.jpg" /><img src="./assets/cards/more-preflop-viewer-light.jpg" alt="Preflop Viewer — rangos de póker de torneo en React" width="32%" /></picture></a>
+  <a href="https://camilocastro.vercel.app/es#work"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-reconciliation-automations-dark.jpg" /><img src="./assets/cards/more-reconciliation-automations-light.jpg" alt="Conciliaciones — herramientas en Python que cruzan DIAN, Siigo y extractos bancarios" width="32%" /></picture></a>
+</p>
+
+<details>
+<summary><b>También construí</b> — proyectos más pequeños o anteriores</summary>
+<br />
+
+| Año | Proyecto | Qué es | Hecho con |
+|:---:|---|---|---|
+| 2026 | **Colegio Travesuras** | Gestión de loncheras para un jardín infantil: registro diario, pagos, deudas y cierres quincenales | Next.js 16 · Turso · Auth.js |
+| 2026 | **Louloz Inventario** | Visor de inventario para una marca de calzado, con edición protegida por PIN | Next.js 16 · Tailwind v4 · Drizzle |
+| 2026 | **Miga** | Liquidación semanal de tienda para tres roles, con autoguardado y comparación lado a lado | Next.js · libSQL · Playwright |
+| 2026 | **Bizcopan Calidad** | Intranet documental de calidad: archivos versionados y fichas técnicas de DOCX a PDF en el edge | Hono · Cloudflare Pages · R2 · Turso |
+| 2026 | **[LouLoz](https://louloz.com)** | Tienda en Shopify para una marca colombiana de calzado | Shopify |
+| 2026 | **[Facturación e Inventario](https://github.com/CratosCamilo/Facturacion--Inventario-y-Reportes)** | Facturación e inventario de escritorio con facturas en PDF y reportes en Excel | Electron · React · SQLite |
+| 2025 | **[MVT Integradores](https://github.com/CratosCamilo/mvt-integradores)** | Catálogo de proyectos renderizado en servidor, con búsqueda, paginación y API de comentarios | Express · TypeScript · EJS · Jest |
+| 2025 | **[SazónApp](https://github.com/CratosCamilo/Saz-nApp)** | App móvil de pedidos a domicilio con estado en tiempo real | Flutter · Firebase |
+| 2025 | **[MercAnalyzer](https://github.com/CratosCamilo/MercAnalyzer.Client)** | Comparador de precios de Mercado Libre: scraper en Python, API en Next.js y cliente en React | Python · Next.js · React · SQL Server |
+
+</details>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/chapter-stack-dark.svg" />
+  <img src="./assets/chapter-stack-light.svg" alt="Capítulo 04 — Stack / Toolbox" width="100%" />
+</picture>
 
 <table>
   <tr>
-    <td valign="top" width="25%">
-
-**Lenguajes**
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,java&perline=4" />
-
-  </td>
-  <td valign="top" width="25%">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&perline=4" />
-
-  </td>
-  <td valign="top" width="25%">
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,electron&perline=4" />
-<img src="https://skillicons.dev/icons?i=socketio&perline=4" />
-
-  </td>
-  <td valign="top" width="25%">
-
-**DB & Tools**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git&perline=4" />
-
-  </td>
+    <td width="170"><b>Lenguajes</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Cjava%2Cdart&theme=dark" /><img src="https://skillicons.dev/icons?i=ts,js,py,java,dart&theme=light" alt="TypeScript, JavaScript, Python, Java, Dart" /></picture></td>
+  </tr>
+  <tr>
+    <td><b>Front end</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cvite%2Ctailwind%2Chtml%2Ccss&theme=dark" /><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&theme=light" alt="React, Next.js, Vite, Tailwind CSS, HTML, CSS" /></picture></td>
+  </tr>
+  <tr>
+    <td><b>Back end</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cfastapi%2Celectron%2Cflutter&theme=dark" /><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,electron,flutter&theme=light" alt="Node.js, Express, FastAPI, Electron, Flutter" /></picture></td>
+  </tr>
+  <tr>
+    <td><b>Datos</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Csqlite%2Cmysql%2Cmongodb%2Credis%2Cprisma&theme=dark" /><img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongodb,redis,prisma&theme=light" alt="PostgreSQL, SQLite, MySQL, MongoDB, Redis, Prisma" /></picture></td>
+  </tr>
+  <tr>
+    <td><b>Infraestructura</b></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Cvercel%2Ccloudflare%2Cgithubactions%2Crabbitmq%2Cgit&theme=dark" /><img src="https://skillicons.dev/icons?i=docker,vercel,cloudflare,githubactions,rabbitmq,git&theme=light" alt="Docker, Vercel, Cloudflare, GitHub Actions, RabbitMQ, Git" /></picture></td>
   </tr>
 </table>
 
-<sub>También: SQL Server · JWT · MUI · Shopify · WordPress · Vercel</sub>
+<sub>También: SQLAlchemy · Alembic · Drizzle · Turso (libSQL) · Hono · Socket.IO · SQL Server · JWT · pytest · Vitest · Playwright · pandas · Shopify</sub>
 
----
+<br />
+<br />
 
-### 📊 Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/chapter-activity-dark.svg" />
+  <img src="./assets/chapter-activity-light.svg" alt="Capítulo 05 — Actividad / Activity" width="100%" />
+</picture>
 
-<p align="left">
-  <img src="https://github-readme-stats-nine-omega-97.vercel.app/api?username=CratosCamilo&show_icons=true&hide_title=true&hide_border=true&theme=transparent" height="140" />
-  <img src="https://github-readme-stats-nine-omega-97.vercel.app/api/top-langs/?username=CratosCamilo&layout=compact&hide_border=true&theme=transparent" height="140" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-nine-omega-97.vercel.app/api/top-langs/?username=CratosCamilo&layout=compact&langs_count=8&card_width=495&border_radius=0&bg_color=0f0e0d&border_color=eeeae0&title_color=ff7154&text_color=eeeae0&custom_title=Lenguajes%20m%C3%A1s%20usados" />
+    <img src="https://github-readme-stats-nine-omega-97.vercel.app/api/top-langs/?username=CratosCamilo&layout=compact&langs_count=8&card_width=495&border_radius=0&bg_color=f1eee6&border_color=141312&title_color=b0240f&text_color=141312&custom_title=Lenguajes%20m%C3%A1s%20usados" alt="Lenguajes más usados" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=CratosCamilo&locale=es&border_radius=0&background=0F0E0D&border=EEEAE0&stroke=EEEAE033&ring=FF5A3C&fire=FF5A3C&currStreakNum=EEEAE0&sideNums=EEEAE0&currStreakLabel=FF7154&sideLabels=C8C3B7&dates=9A958A" />
+    <img src="https://streak-stats.demolab.com/?user=CratosCamilo&locale=es&border_radius=0&background=F1EEE6&border=141312&stroke=14131233&ring=D6311F&fire=D6311F&currStreakNum=141312&sideNums=141312&currStreakLabel=B0240F&sideLabels=3B3834&dates=66615A" alt="Racha de contribuciones en GitHub" width="49%" />
+  </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CratosCamilo/CratosCamilo/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/CratosCamilo/CratosCamilo/output/snake-light.svg" alt="Serpiente que recorre el calendario de contribuciones" width="100%" />
+  </picture>
+</p>
+
+<p align="center"><sub>La mayor parte de mi trabajo vive en repositorios privados de clientes; el calendario solo muestra lo público.</sub></p>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/chapter-contact-dark.svg" />
+  <img src="./assets/chapter-contact-light.svg" alt="Capítulo 06 — Contacto / Contact" width="100%" />
+</picture>
+
+<h3 align="center">Construyamos algo que llegue a producción.</h3>
+
+<p align="center">
+  Roles full-time, proyectos freelance o ese sistema que tu negocio ya superó: escríbeme.<br />
+  <a href="mailto:cratoscamilo@gmail.com"><b>cratoscamilo@gmail.com</b></a> · <a href="https://camilocastro.vercel.app/es">camilocastro.vercel.app</a> · <a href="https://x.com/CamiloCratos">@CamiloCratos</a>
+</p>
+
+<br />
+
+<a href="https://camilocastro.vercel.app/es">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
+    <img src="./assets/footer-light.svg" alt="つづく — to be continued · continuará. Camilo Castro." width="100%" />
+  </picture>
+</a>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=CratosCamilo&label=visitas&color=141312&style=flat-square" alt="Visitas al perfil" /></p>

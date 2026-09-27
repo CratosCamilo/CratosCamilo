@@ -1,0 +1,39 @@
+# Draws the contribution graph as an animated snake, in the README's ink palette.
+# Output goes to the `output` branch, which the README reads.
+name: Contribution snake
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?color_snake=#d6311f&color_dots=#ebe7dd,#cfc6b4,#a89c85,#6b6255,#141312
+            dist/snake-dark.svg?color_snake=#ff5a3c&color_dots=#161b22,#3b3833,#6d665c,#aea596,#eeeae0
+
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: update contribution snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
