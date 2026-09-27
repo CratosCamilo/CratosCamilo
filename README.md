@@ -1,14 +1,10 @@
 <!-- README — Camilo Castro · tinta y viñeta · 戦え -->
 
 <p align="center">
-  <img src="https://i.imgur.com/HlAKiYy.jpeg" alt="Viñeta de manga en blanco y negro: una mirada decidida" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://camilocastro.vercel.app/es">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
-      <img src="./assets/hero-light.svg" alt="Camilo Castro — desarrollador full-stack en Bucaramanga, Colombia. Construyo software que llega a producción. 戦え" width="100%" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/cover-dark.svg" />
+      <img src="./assets/cover-light.svg" alt="Portada en viñetas de manga: una mirada decidida sobre el nombre Camilo Castro, desarrollador full-stack en Bucaramanga, Colombia, con el sello 戦え. Construyo software que llega a producción." width="100%" />
     </picture>
   </a>
 </p>
