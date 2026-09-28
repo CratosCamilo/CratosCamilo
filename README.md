@@ -98,9 +98,12 @@ I build software that **reaches production** for real businesses in Santander an
 </picture>
 
 <p align="center">
-  <a href="https://camilocastro.vercel.app/es#work"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-leons-planning-dark.jpg" /><img src="./assets/cards/more-leons-planning-light.jpg" alt="Calzado Leons — planeación de producción, mi trabajo de grado (Express, Prisma, PostgreSQL, React)" width="32%" /></picture></a>
-  <a href="https://the-groomers-house.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-groomers-house-dark.jpg" /><img src="./assets/cards/more-groomers-house-light.jpg" alt="The Groomer's House — sitio para una peluquería canina premium" width="32%" /></picture></a>
-  <a href="https://my-progress-l65q.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-myprogress-dark.jpg" /><img src="./assets/cards/more-myprogress-light.jpg" alt="MyProgress — PWA de gimnasio con racha, rutinas y estadísticas" width="32%" /></picture></a>
+  <a href="https://camilocastro.vercel.app/es#work"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-leons-planning-dark.jpg" /><img src="./assets/cards/more-leons-planning-light.jpg" alt="Calzado Leons — planeación de producción, mi trabajo de grado (Express, Prisma, PostgreSQL, React)" width="49%" /></picture></a>
+  <a href="https://louloz-inventario.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-louloz-inventory-dark.jpg" /><img src="./assets/cards/more-louloz-inventory-light.jpg" alt="Louloz Inventario — stock talla por talla para una marca colombiana de calzado, con filtros y edición protegida por PIN" width="49%" /></picture></a>
+  <br />
+  <a href="https://the-groomers-house.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-groomers-house-dark.jpg" /><img src="./assets/cards/more-groomers-house-light.jpg" alt="The Groomer's House — sitio para una peluquería canina premium" width="49%" /></picture></a>
+  <a href="https://my-progress-l65q.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-myprogress-dark.jpg" /><img src="./assets/cards/more-myprogress-light.jpg" alt="MyProgress — PWA de gimnasio con racha, rutinas y estadísticas" width="49%" /></picture></a>
+  <br />
   <a href="https://impostor-client-zeta.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-impostor-dark.jpg" /><img src="./assets/cards/more-impostor-light.jpg" alt="Impostor — juego multijugador en tiempo real con Socket.IO" width="32%" /></picture></a>
   <a href="https://poker-viewer-kmi.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-preflop-viewer-dark.jpg" /><img src="./assets/cards/more-preflop-viewer-light.jpg" alt="Preflop Viewer — rangos de póker de torneo en React" width="32%" /></picture></a>
   <a href="https://camilocastro.vercel.app/es#work"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-reconciliation-automations-dark.jpg" /><img src="./assets/cards/more-reconciliation-automations-light.jpg" alt="Conciliaciones — herramientas en Python que cruzan DIAN, Siigo y extractos bancarios" width="32%" /></picture></a>
@@ -113,7 +116,6 @@ I build software that **reaches production** for real businesses in Santander an
 | Año | Proyecto | Qué es | Hecho con |
 |:---:|---|---|---|
 | 2026 | **Colegio Travesuras** | Gestión de loncheras para un jardín infantil: registro diario, pagos, deudas y cierres quincenales | Next.js 16 · Turso · Auth.js |
-| 2026 | **Louloz Inventario** | Visor de inventario para una marca de calzado, con edición protegida por PIN | Next.js 16 · Tailwind v4 · Drizzle |
 | 2026 | **Miga** | Liquidación semanal de tienda para tres roles, con autoguardado y comparación lado a lado | Next.js · libSQL · Playwright |
 | 2026 | **Bizcopan Calidad** | Intranet documental de calidad: archivos versionados y fichas técnicas de DOCX a PDF en el edge | Hono · Cloudflare Pages · R2 · Turso |
 | 2026 | **[LouLoz](https://louloz.com)** | Tienda en Shopify para una marca colombiana de calzado | Shopify |
