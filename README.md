@@ -26,23 +26,15 @@
   <img src="./assets/chapter-about-light.svg" alt="Capítulo 01 — Sobre mí / About" width="100%" />
 </picture>
 
-Soy desarrollador **full-stack** en Bucaramanga, Colombia, en el último semestre de Ingeniería de Sistemas e Informática en la **Universidad Pontificia Bolivariana** (grado a finales de 2026).
+Soy desarrollador **full-stack** de Bucaramanga, Colombia, y termino Ingeniería de Sistemas e Informática en la **UPB** (grado a finales de 2026). Casi todo lo que construyo **mueve negocios reales**, y trabajo con quienes lo usan, desde la primera entrevista hasta el despliegue.
 
-Construyo software que **llega a producción** para negocios reales de Santander y la costa Caribe: el inventario de una panificadora y su próximo sistema de nómina y contabilidad, el catálogo y la planeación de producción de una fábrica de calzado, la web de un hotel en Santa Marta, una peluquería canina, un jardín infantil. Trabajo directo con quienes lo usan, desde la primera entrevista hasta el despliegue.
-
-Disfruto los dos extremos del oficio: la parte meticulosa —hacerle ingeniería inversa a un ERP, dejar cada regla por escrito, reproducir un mes de nómina de punta a punta— y la parte visible: tipografía, movimiento y páginas que cargan rápido. Cuando construyo para mí es porque quiero la herramienta; esos proyectos los firmo como **Kmi**.
-
-> **Ahora mismo** · preparo la marcha en paralelo del sistema de nómina contra Siesa (oct.–dic. 2026) · cierro mi trabajo de grado para Calzado Leons · abierto a roles de ingeniería full-time y proyectos freelance.
+> **Ahora mismo** · preparo la marcha en paralelo del sistema de nómina y cierro mi trabajo de grado.
 
 <details>
 <summary><b>Read in English</b></summary>
 <br />
 
-I'm a **full-stack developer** from Bucaramanga, Colombia, in the final semester of Systems & Informatics Engineering at **Universidad Pontificia Bolivariana** (graduating late 2026).
-
-I build software that **reaches production** for real businesses in Santander and on the Caribbean coast: a bread factory's raw-material inventory and its upcoming payroll & accounting system, a shoe manufacturer's catalog and production planning, a hotel website in Santa Marta, a grooming salon, a kindergarten. I work directly with the people who use it, from the first interview to the deploy.
-
-**Right now:** preparing the payroll system's parallel run against Siesa ERP (Oct–Dec 2026), closing my degree project, and open to full-time engineering roles and freelance work. The full story, in both languages, lives at **[camilocastro.vercel.app](https://camilocastro.vercel.app/en)**.
+I'm a **full-stack developer** from Bucaramanga, Colombia, finishing Systems & Informatics Engineering at **UPB** (graduating late 2026). Most of what I build **runs real businesses**, and I work with the people who use it, from the first interview to the deploy. **Right now:** preparing the payroll system's parallel run and closing my degree project. The full story lives at **[camilocastro.vercel.app](https://camilocastro.vercel.app/en)**.
 
 </details>
 
@@ -56,35 +48,35 @@ I build software that **reaches production** for real businesses in Santander an
 <a href="https://camilocastro.vercel.app/es/work/payroll-accounting">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/work-01-payroll-accounting-dark.jpg" />
-    <img src="./assets/cards/work-01-payroll-accounting-light.jpg" alt="01 — Motor de nómina y contabilidad: reemplazo propio del ERP Siesa para Industria Bizcopan. FastAPI, PostgreSQL, React. 569 pruebas, CI de 9 etapas." width="100%" />
+    <img src="./assets/cards/work-01-payroll-accounting-light.jpg" alt="01 — Motor de nómina y contabilidad, en un portátil y un teléfono. Reemplaza el ERP de una panificadora: nómina colombiana, contabilidad automática, nómina electrónica DIAN y PILA, con 569 pruebas. En construcción, salida en enero de 2027." width="100%" />
   </picture>
 </a>
 
 <a href="https://camilocastro.vercel.app/es/work/hotel-logistico">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/work-02-hotel-logistico-dark.jpg" />
-    <img src="./assets/cards/work-02-hotel-logistico-light.jpg" alt="02 — Hotel Logístico: landing sin frameworks para un hotel en Santa Marta, con reservas por WhatsApp. En línea en hotellogistico.com." width="100%" />
+    <img src="./assets/cards/work-02-hotel-logistico-light.jpg" alt="02 — Hotel Logístico, en un portátil y un teléfono: landing sin frameworks para un hotel en Santa Marta que convierte visitas en reservas por WhatsApp. En línea en hotellogistico.com." width="100%" />
   </picture>
 </a>
 
 <a href="https://camilocastro.vercel.app/es/work/leons-footwear">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/work-03-leons-footwear-dark.jpg" />
-    <img src="./assets/cards/work-03-leons-footwear-light.jpg" alt="03 — LEONS Footwear: catálogo mayorista en Next.js con pipeline de imágenes en Python. En línea en calzadoleons.com." width="100%" />
+    <img src="./assets/cards/work-03-leons-footwear-light.jpg" alt="03 — LEONS Footwear, en un portátil y un teléfono: catálogo mayorista con un pipeline en Python que unifica las fotos de producto. En línea en calzadoleons.com." width="100%" />
   </picture>
 </a>
 
 <a href="https://camilocastro.vercel.app/es/work/kiln">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/work-04-kiln-dark.jpg" />
-    <img src="./assets/cards/work-04-kiln-light.jpg" alt="04 — Kiln: procesamiento distribuido de imágenes con FastAPI, RabbitMQ, workers y PostgreSQL replicado." width="100%" />
+    <img src="./assets/cards/work-04-kiln-light.jpg" alt="04 — Kiln, en un portátil y una ventana del navegador: procesamiento distribuido de imágenes con FastAPI, RabbitMQ y PostgreSQL en cinco máquinas virtuales. Código abierto." width="100%" />
   </picture>
 </a>
 
 <a href="https://camilocastro.vercel.app/es/work/raw-materials-inventory">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/work-05-raw-materials-inventory-dark.jpg" />
-    <img src="./assets/cards/work-05-raw-materials-inventory-light.jpg" alt="05 — Inventario de materia prima para una panificadora: Next.js, Drizzle y Turso. En producción." width="100%" />
+    <img src="./assets/cards/work-05-raw-materials-inventory-light.jpg" alt="05 — Inventario de materia prima, en un portátil y una ventana del navegador: stock en tiempo real para una panificadora. En producción." width="100%" />
   </picture>
 </a>
 
@@ -98,15 +90,15 @@ I build software that **reaches production** for real businesses in Santander an
 </picture>
 
 <p align="center">
-  <a href="https://camilocastro.vercel.app/es#work"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-leons-planning-dark.jpg" /><img src="./assets/cards/more-leons-planning-light.jpg" alt="Calzado Leons — planeación de producción, mi trabajo de grado (Express, Prisma, PostgreSQL, React)" width="49%" /></picture></a>
-  <a href="https://louloz-inventario.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-louloz-inventory-dark.jpg" /><img src="./assets/cards/more-louloz-inventory-light.jpg" alt="Louloz Inventario — stock talla por talla para una marca colombiana de calzado, con filtros y edición protegida por PIN" width="49%" /></picture></a>
+  <a href="https://camilocastro.vercel.app/es#work"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-leons-planning-dark.jpg" /><img src="./assets/cards/more-leons-planning-light.jpg" alt="Calzado Leons — planeación de producción, mi trabajo de grado; en un portátil y un teléfono" width="49%" /></picture></a>
+  <a href="https://the-groomers-house.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-groomers-house-dark.jpg" /><img src="./assets/cards/more-groomers-house-light.jpg" alt="The Groomer's House — sitio para una peluquería canina premium; en un portátil y un teléfono" width="49%" /></picture></a>
   <br />
-  <a href="https://the-groomers-house.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-groomers-house-dark.jpg" /><img src="./assets/cards/more-groomers-house-light.jpg" alt="The Groomer's House — sitio para una peluquería canina premium" width="49%" /></picture></a>
-  <a href="https://my-progress-l65q.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-myprogress-dark.jpg" /><img src="./assets/cards/more-myprogress-light.jpg" alt="MyProgress — PWA de gimnasio con racha, rutinas y estadísticas" width="49%" /></picture></a>
+  <a href="https://louloz-inventario.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-louloz-inventory-dark.jpg" /><img src="./assets/cards/more-louloz-inventory-light.jpg" alt="Louloz Inventario — stock talla por talla para una marca de calzado; tres teléfonos" width="49%" /></picture></a>
+  <a href="https://impostor-client-zeta.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-impostor-dark.jpg" /><img src="./assets/cards/more-impostor-light.jpg" alt="Impostor — juego multijugador en tiempo real; en una tablet" width="49%" /></picture></a>
   <br />
-  <a href="https://impostor-client-zeta.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-impostor-dark.jpg" /><img src="./assets/cards/more-impostor-light.jpg" alt="Impostor — juego multijugador en tiempo real con Socket.IO" width="32%" /></picture></a>
-  <a href="https://poker-viewer-kmi.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-preflop-viewer-dark.jpg" /><img src="./assets/cards/more-preflop-viewer-light.jpg" alt="Preflop Viewer — rangos de póker de torneo en React" width="32%" /></picture></a>
-  <a href="https://camilocastro.vercel.app/es#work"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-reconciliation-automations-dark.jpg" /><img src="./assets/cards/more-reconciliation-automations-light.jpg" alt="Conciliaciones — herramientas en Python que cruzan DIAN, Siigo y extractos bancarios" width="32%" /></picture></a>
+  <a href="https://my-progress-l65q.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-myprogress-dark.jpg" /><img src="./assets/cards/more-myprogress-light.jpg" alt="MyProgress — PWA para el gimnasio; tres teléfonos" width="32%" /></picture></a>
+  <a href="https://poker-viewer-kmi.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-preflop-viewer-dark.jpg" /><img src="./assets/cards/more-preflop-viewer-light.jpg" alt="Preflop Viewer — rangos de póker de torneo; en un teléfono" width="32%" /></picture></a>
+  <a href="https://camilocastro.vercel.app/es#work"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/more-reconciliation-automations-dark.jpg" /><img src="./assets/cards/more-reconciliation-automations-light.jpg" alt="Conciliaciones — automatizaciones contables en Python; en una tablet" width="32%" /></picture></a>
 </p>
 
 <details>
